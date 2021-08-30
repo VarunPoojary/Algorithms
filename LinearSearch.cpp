@@ -6,7 +6,6 @@ A simple approach is to do a linear search, i.e
 3. If n doesn’t match with any of elements, print number not found.
 */
 
-
 #include <iostream>
 using namespace std;
 
