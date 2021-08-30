@@ -8,8 +8,8 @@ A simple approach is to do a linear search, i.e
 The time complexity of Linear Search Algorithm is O(n). 
 */
 
-#include <iostream>
-using namespace std;
+    #include <iostream>
+    using namespace std;
 
     int main() 
     {
