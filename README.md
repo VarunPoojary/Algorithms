@@ -11,3 +11,4 @@
 9. Sieve of Eratosthenes
 10. Inclusion-Exclusion Principle
 11. Euclidean algorithm
+[Linear Search](https://github.com/VarunPoojary/Algorithms/blob/main/BinarySearch.cpp)  
