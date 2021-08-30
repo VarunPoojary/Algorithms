@@ -1,6 +1,6 @@
 # Algorithms
 
-1. [Linear Search](https://github.com/VarunPoojary/Algorithms/blob/main/BinarySearch.cpp)  
+1. [Linear Search](https://github.com/VarunPoojary/Algorithms/blob/main/LinearSearch.cpp)  
 2. [Binary Search](https://github.com/VarunPoojary/Algorithms/blob/main/BinarySearch.cpp)  
 3. [Selection Sort](https://github.com/VarunPoojary/Algorithms/blob/main/SelectionSort.cpp)  
 4. [Bubble Sort](https://github.com/VarunPoojary/Algorithms/blob/main/BubbleSort.cpp)  
