@@ -3,7 +3,7 @@
 1. [Linear Search](https://github.com/VarunPoojary/Algorithms/blob/main/BinarySearch.cpp)  
 2. [Binary Search](https://github.com/VarunPoojary/Algorithms/blob/main/BinarySearch.cpp)  
 3. [Selection Sort](https://github.com/VarunPoojary/Algorithms/blob/main/SelectionSort.cpp)  
-4. Bubble Sort
+4. [Bubble Sort](https://github.com/VarunPoojary/Algorithms/blob/main/BubbleSort.cpp)  
 5. Insertion Sort
 6. Array STL
 7. String STL
@@ -11,4 +11,4 @@
 9. Sieve of Eratosthenes
 10. Inclusion-Exclusion Principle
 11. Euclidean algorithm
-[Linear Search](https://github.com/VarunPoojary/Algorithms/blob/main/BinarySearch.cpp)  
+
