@@ -4,6 +4,8 @@ A simple approach is to do a linear search, i.e
 1. Start from the leftmost element of arr[] and one by one compare n with each element of arr[]
 2. If n matches with an element, print the index and break.
 3. If n doesn’t match with any of elements, print number not found.
+
+The time complexity of Linear Search Algorithm is O(n). 
 */
 
 #include <iostream>
